@@ -11,7 +11,7 @@
   "template": {
     "inheridFrom": [
       "arlac77/template-github",
-      "arlrac77/template-semantic-release"
+      "arlac77/template-semantic-release"
     ]
   }
 }

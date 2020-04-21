@@ -1,0 +1,17 @@
+{
+  "publishConfig": {
+    "access": "public"
+  },
+  "contributors": [
+    {
+      "name": "Markus Felten",
+      "email": "markus.felten@gmx.de"
+    }
+  ],
+  "template": {
+    "inheridFrom": [
+      "arlac77/template-github",
+      "arlrac77/template-semantic-release"
+    ]
+  }
+}

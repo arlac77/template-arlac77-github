@@ -12,6 +12,9 @@
     "inheridFrom": [
       "arlac77/template-github",
       "arlac77/template-semantic-release"
+    ],
+    "usedBy": [
+      "arlac77/content-entry"
     ]
   }
 }

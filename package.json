@@ -21,6 +21,7 @@
       "arlac77/local-repository-provider",
       "arlac77/mock-repository-provider",
       "arlac77/repository-provider",
+      "arlac77/svn-repository-provider",
       "arlac77/url-cmd",
       "arlac77/uti"
     ]

@@ -14,6 +14,7 @@
       "arlac77/template-semantic-release"
     ],
     "usedBy": [
+      "arlac77/aggregation-repository-provider",
       "arlac77/content-entry",
       "arlac77/local-repository-provider",
       "arlac77/repository-provider",

@@ -34,6 +34,7 @@
       "arlac77/svelte-time-series",
       "arlac77/svelte-websocket-store",
       "arlac77/svn-repository-provider",
+      "arlac77/timeseries-sqlite2leveldb",
       "arlac77/url-cmd",
       "arlac77/uti"
     ]

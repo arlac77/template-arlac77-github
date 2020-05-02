@@ -14,6 +14,7 @@
       "arlac77/template-semantic-release"
     ],
     "usedBy": [
+      "arlac77/SymatemQuery",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
       "arlac77/cache-repository-provider",

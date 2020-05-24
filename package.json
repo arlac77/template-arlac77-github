@@ -8,6 +8,7 @@
       "email": "markus.felten@gmx.de"
     }
   ],
+  "license": "BSD-2-Clause",
   "template": {
     "inheridFrom": [
       "arlac77/template-github",

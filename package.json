@@ -25,6 +25,7 @@
       "arlac77/gitea-repository-provider",
       "arlac77/github-repository-provider",
       "arlac77/hook-ci-frontend-svelte",
+      "arlac77/konsum-frontend-svelte",
       "arlac77/local-repository-provider",
       "arlac77/log-stream-analyser",
       "arlac77/mkpr",

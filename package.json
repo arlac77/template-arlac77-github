@@ -22,6 +22,7 @@
       "arlac77/bitbucket-repository-provider",
       "arlac77/cache-repository-provider",
       "arlac77/component-manager",
+      "arlac77/component-template-designer",
       "arlac77/content-entry",
       "arlac77/gitea-repository-provider",
       "arlac77/github-repository-provider",

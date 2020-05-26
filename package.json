@@ -24,6 +24,7 @@
       "arlac77/component-manager",
       "arlac77/component-template-designer",
       "arlac77/content-entry",
+      "arlac77/content-entry-filesystem",
       "arlac77/gitea-repository-provider",
       "arlac77/github-repository-provider",
       "arlac77/hook-ci-frontend-svelte",

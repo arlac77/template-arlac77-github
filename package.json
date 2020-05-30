@@ -18,6 +18,7 @@
       "arlac77/SymatemExplorer",
       "arlac77/SymatemOntology",
       "arlac77/SymatemQuery",
+      "arlac77/aggregate-async-iterator",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
       "arlac77/cache-repository-provider",

@@ -16,6 +16,7 @@
     ],
     "usedBy": [
       "Kronos-Integration/service-repositories",
+      "Kronos-Integration/test-interceptor",
       "arlac77/SymatemExplorer",
       "arlac77/SymatemOntology",
       "arlac77/SymatemQuery",

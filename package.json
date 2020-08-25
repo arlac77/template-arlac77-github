@@ -27,6 +27,7 @@
       "arlac77/component-template-designer",
       "arlac77/content-entry",
       "arlac77/content-entry-filesystem",
+      "arlac77/entitlement-provider-frontend",
       "arlac77/fetch-link-util",
       "arlac77/gitea-repository-provider",
       "arlac77/github-repository-provider",

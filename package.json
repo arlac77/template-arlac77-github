@@ -10,7 +10,7 @@
   ],
   "license": "BSD-2-Clause",
   "template": {
-    "inheridFrom": [
+    "inheritFrom": [
       "arlac77/template-github",
       "arlac77/template-coveralls",
       "arlac77/template-semantic-release"

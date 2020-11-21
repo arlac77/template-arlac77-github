@@ -24,6 +24,7 @@
       "arlac77/aggregate-async-iterator",
       "arlac77/aggregation-repository-provider",
       "arlac77/bitbucket-repository-provider",
+      "arlac77/bocf",
       "arlac77/cache-repository-provider",
       "arlac77/component-manager",
       "arlac77/component-template-designer",

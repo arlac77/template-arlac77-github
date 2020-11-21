@@ -28,6 +28,7 @@
       "arlac77/cache-repository-provider",
       "arlac77/component-manager",
       "arlac77/component-template-designer",
+      "arlac77/config-expander",
       "arlac77/content-entry",
       "arlac77/content-entry-filesystem",
       "arlac77/entitlement-provider-frontend",

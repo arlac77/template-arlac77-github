@@ -37,6 +37,7 @@
       "arlac77/dns-playground",
       "arlac77/entitlement-provider-frontend",
       "arlac77/env-auth-provider",
+      "arlac77/expression-expander",
       "arlac77/fetch-link-util",
       "arlac77/fetch-rate-limit-util",
       "arlac77/gitea-repository-provider",

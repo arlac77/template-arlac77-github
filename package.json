@@ -48,6 +48,7 @@
       "arlac77/hook-ci",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/iterable-string-interceptor",
+      "arlac77/koa-github-hook-handler",
       "arlac77/konsum-frontend-svelte",
       "arlac77/length-prefix-framed-stream",
       "arlac77/local-repository-provider",

@@ -31,6 +31,7 @@
       "arlac77/component-template-designer",
       "arlac77/config-expander",
       "arlac77/config-expander-cli",
+      "arlac77/console-auth-provider",
       "arlac77/content-entry",
       "arlac77/content-entry-filesystem",
       "arlac77/entitlement-provider-frontend",

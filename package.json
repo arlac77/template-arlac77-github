@@ -47,6 +47,7 @@
       "arlac77/hinted-tree-merger",
       "arlac77/hook-ci",
       "arlac77/hook-ci-frontend-svelte",
+      "arlac77/iterable-string-interceptor",
       "arlac77/konsum-frontend-svelte",
       "arlac77/length-prefix-framed-stream",
       "arlac77/local-repository-provider",

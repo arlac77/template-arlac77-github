@@ -14,7 +14,8 @@
       "arlac77/template-github",
       "arlac77/template-github-action",
       "arlac77/template-coveralls",
-      "arlac77/template-semantic-release"
+      "arlac77/template-semantic-release",
+      "arlac77/template-vscode"
     ],
     "usedBy": [
       "Kronos-Integration/service-repositories",

@@ -10,6 +10,11 @@
   ],
   "license": "BSD-2-Clause",
   "template": {
+    "properties": {
+      "repository": {
+        "delete_branch_on_merge" : true
+      }
+    },
     "inheritFrom": [
       "arlac77/template-github",
       "arlac77/template-github-action",

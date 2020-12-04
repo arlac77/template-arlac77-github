@@ -23,6 +23,7 @@
       "arlac77/template-vscode"
     ],
     "usedBy": [
+      "Kronos-Integration/interceptor-line-tokenizer-csv",
       "Kronos-Integration/service-repositories",
       "arlac77/SymatemExplorer",
       "arlac77/SymatemOntology",

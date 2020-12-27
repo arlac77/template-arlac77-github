@@ -114,6 +114,7 @@
       "arlac77/url-resolver-fs",
       "arlac77/uti",
       "arlac77/x-expression",
+      "konsumation/konsum-frontend-svelte",
       "template-tools/template-sync-cli",
       "template-tools/template-sync-hook"
     ]

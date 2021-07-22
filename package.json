@@ -32,6 +32,7 @@
       "Kronos-Integration/interceptor-object-data-processor-row",
       "Kronos-Integration/interceptor-webhook",
       "Kronos-Integration/service-repositories",
+      "Kronos-Integration/service-systemd",
       "Kronos-Integration/svelte-components",
       "arlac77/SymatemExplorer",
       "arlac77/SymatemOntology",

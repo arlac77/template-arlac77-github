@@ -66,6 +66,7 @@
       "arlac77/hook-ci-frontend",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/iterable-string-interceptor",
+      "arlac77/key-value-transformer",
       "arlac77/keytar-auth-provider",
       "arlac77/koa-github-hook-handler",
       "arlac77/kv-reader",

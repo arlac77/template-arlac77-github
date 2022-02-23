@@ -61,7 +61,6 @@
       "arlac77/gitlab-repository-provider",
       "arlac77/hinted-tree-merger",
       "arlac77/hook-ci",
-      "arlac77/hook-ci-frontend",
       "arlac77/hook-ci-frontend-svelte",
       "arlac77/iterable-string-interceptor",
       "arlac77/key-value-transformer",

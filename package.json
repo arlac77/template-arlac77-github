@@ -113,6 +113,7 @@
       "arlac77/url-resolver-fs",
       "arlac77/uti",
       "arlac77/x-expression",
+      "k0nsti/browser-stream-tar",
       "konsumation/konsum-frontend-svelte",
       "template-tools/template-sync",
       "template-tools/template-sync-action",

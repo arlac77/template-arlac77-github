@@ -42,7 +42,7 @@
       "arlac77/cache-repository-provider",
       "arlac77/chunk-tokenizer",
       "arlac77/component-manager",
-      "arlac77/component-template-designer",
+      "template-tools/template-designer",
       "arlac77/config-expander",
       "arlac77/config-expander-cli",
       "arlac77/console-auth-provider",

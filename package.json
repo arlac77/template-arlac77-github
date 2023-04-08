@@ -23,6 +23,7 @@
       "arlac77/template-vscode"
     ],
     "usedBy": [
+      "Kronos-Integration/cluster-node",
       "Kronos-Integration/interceptor",
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/interceptor-line-header",
@@ -42,7 +43,6 @@
       "arlac77/cache-repository-provider",
       "arlac77/chunk-tokenizer",
       "arlac77/component-manager",
-      "template-tools/template-designer",
       "arlac77/config-expander",
       "arlac77/config-expander-cli",
       "arlac77/console-auth-provider",
@@ -116,6 +116,7 @@
       "k0nsti/browser-stream-tar",
       "k0nsti/browser-stream-util",
       "konsumation/konsum-frontend-svelte",
+      "template-tools/template-designer",
       "template-tools/template-sync",
       "template-tools/template-sync-action",
       "template-tools/template-sync-cli",

@@ -74,6 +74,7 @@
       "arlac77/log-stream-analyser",
       "arlac77/loglevel-mixin",
       "arlac77/matching-iterator",
+      "arlac77/mf-examples",
       "arlac77/mkpr",
       "arlac77/mock-repository-provider",
       "arlac77/model",

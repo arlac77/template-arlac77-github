@@ -89,6 +89,7 @@
       "arlac77/one-time-execution-method",
       "arlac77/pacc",
       "arlac77/pratt-parser",
+      "arlac77/profile",
       "arlac77/reader-line-iterator",
       "arlac77/registry-mixin",
       "arlac77/remove-sensible-values",

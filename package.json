@@ -26,6 +26,7 @@
       "Kronos-Integration/cluster-node",
       "Kronos-Integration/endpoint",
       "Kronos-Integration/interceptor",
+      "Kronos-Integration/interceptor-decode-json",
       "Kronos-Integration/interceptor-gzip",
       "Kronos-Integration/interceptor-line-header",
       "Kronos-Integration/interceptor-line-tokenizer-csv",

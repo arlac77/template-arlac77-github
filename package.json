@@ -42,7 +42,7 @@
       "Kronos-Integration/service-consul",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-repositories",
-      "Kronos-Integration/service-smtp",
+      "Kronos-Integration/service-swarm",
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/svelte-components",
       "Kronos-Integration/test-interceptor",

@@ -40,6 +40,7 @@
       "Kronos-Integration/service",
       "Kronos-Integration/service-bullmq",
       "Kronos-Integration/service-consul",
+      "Kronos-Integration/service-health",
       "Kronos-Integration/service-http",
       "Kronos-Integration/service-repositories",
       "Kronos-Integration/service-systemd",

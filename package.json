@@ -124,6 +124,7 @@
       "k0nsti/browser-stream-util",
       "konsumation/db-test",
       "konsumation/frontend-svelte",
+      "konsumation/timeseries-sqlite2leveldb",
       "template-tools/template-designer",
       "template-tools/template-sync",
       "template-tools/template-sync-action",

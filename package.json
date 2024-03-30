@@ -36,6 +36,7 @@
       "Kronos-Integration/interceptor-object-data-processor-row",
       "Kronos-Integration/interceptor-stream",
       "Kronos-Integration/interceptor-webhook",
+      "Kronos-Integration/message",
       "Kronos-Integration/service",
       "Kronos-Integration/service-bullmq",
       "Kronos-Integration/service-http",

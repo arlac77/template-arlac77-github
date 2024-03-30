@@ -36,7 +36,7 @@
       "Kronos-Integration/interceptor-webhook",
       "Kronos-Integration/service",
       "Kronos-Integration/service-bullmq",
-      "Kronos-Integration/service-health",
+      "Kronos-Integration/service-http",
       "Kronos-Integration/service-repositories",
       "Kronos-Integration/service-systemd",
       "Kronos-Integration/svelte-components",

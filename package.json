@@ -61,6 +61,7 @@
       "arlac77/content-entry",
       "arlac77/content-entry-filesystem",
       "arlac77/content-entry-transform",
+      "arlac77/csp-record",
       "arlac77/dns-playground",
       "arlac77/entitlement-provider",
       "arlac77/entitlement-provider-frontend",

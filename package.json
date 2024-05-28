@@ -90,7 +90,6 @@
       "arlac77/mkpr",
       "arlac77/mock-repository-provider",
       "arlac77/mocked-log-provider",
-      "arlac77/model",
       "arlac77/model-attributes",
       "arlac77/mqtt-timeseries-leveldb",
       "arlac77/multi-path-matcher",

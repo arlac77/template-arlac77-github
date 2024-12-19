@@ -11,6 +11,9 @@
   "license": "0BSD",
   "template": {
     "properties": {
+      "license": {
+        "owner" : "arlac77"
+      },
       "repository": {
         "delete_branch_on_merge": true
       }

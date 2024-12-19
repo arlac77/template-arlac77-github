@@ -15,6 +15,26 @@
         "delete_branch_on_merge": true
       }
     },
+    "mergers": [
+      {
+        "type": "Readme",
+        "pattern": "README.md",
+        "options": {
+          "badges": [
+            {
+              "name": "License",
+              "icon": "https://img.shields.io/badge/License-BSD%203--Clause-blue.svg",
+              "url": "https://spdx.org/licenses/0BSD.html",
+              "order": 0.11
+            }
+          ]
+        }
+      },
+      {
+        "type": "License",
+        "pattern": "LICENSE"
+      }
+    ],
     "inheritFrom": [
       "arlac77/template-github",
       "arlac77/template-github-action",

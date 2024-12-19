@@ -8,7 +8,7 @@
       "email": "markus.felten@gmx.de"
     }
   ],
-  "license": "0BSD",
+  "license": "--overwrite-- 0BSD",
   "template": {
     "properties": {
       "repository": {

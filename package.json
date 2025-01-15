@@ -11,7 +11,7 @@
   "template": {
     "properties": {
       "license": {
-        "owner" : "arlac77"
+        "owner": "arlac77"
       },
       "repository": {
         "delete_branch_on_merge": true
@@ -103,6 +103,7 @@
       "arlac77/npm-pkgbuild",
       "arlac77/one-time-execution-method",
       "arlac77/pacc",
+      "arlac77/pmcf",
       "arlac77/pratt-parser",
       "arlac77/reader-line-iterator",
       "arlac77/registry-mixin",

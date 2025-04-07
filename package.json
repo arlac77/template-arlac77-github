@@ -79,6 +79,7 @@
       "arlac77/hinted-tree-merger",
       "arlac77/hook-ci",
       "arlac77/hook-ci-frontend-svelte",
+      "arlac77/ip-utilties",
       "arlac77/iterable-string-interceptor",
       "arlac77/key-value-transformer",
       "arlac77/keytar-auth-provider",

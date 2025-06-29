@@ -44,6 +44,7 @@
       "Kronos-Integration/service-bullmq",
       "Kronos-Integration/service-consul",
       "Kronos-Integration/service-http",
+      "Kronos-Integration/service-influxdb",
       "Kronos-Integration/service-mqtt",
       "Kronos-Integration/service-repositories",
       "Kronos-Integration/service-systemd",

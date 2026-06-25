@@ -94,7 +94,7 @@
       "arlac77/matching-iterator",
       "arlac77/mf-examples",
       "arlac77/mf-hosting",
-      "arlac77/mf-hosting-frontend",
+      "arlac77/mf-hosting-cloudflare",
       "arlac77/mkpr",
       "arlac77/mock-repository-provider",
       "arlac77/mocked-log-provider",
